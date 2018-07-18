@@ -6,3 +6,5 @@
 <H1>TAMARA P COOPER</H1> 
 <TABLE WIDTH=”100%”> 
   
+</BODY> 
+</HTML>
