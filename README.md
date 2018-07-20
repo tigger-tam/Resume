@@ -13,9 +13,7 @@
   <li><a href="https://www.linkedin.com/in/tamara-p-cooper/">Linkedin Profile</li>
   <li>Roseville, MN</li> 
    
-   <H2>Objective</H2> 
-<TABLE><TR><TD>&nbsp;</TD> 
-<TD>Marketing, public relations or sales position with a medical equipment company.</TD></TR></TABLE> 
+
 <H2>Relevant Experience</H2> 
 <H3>April 2018 to June 2018</H3> 
 <TABLE><TR><TD>&nbsp;</TD> 
