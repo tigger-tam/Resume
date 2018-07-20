@@ -12,14 +12,14 @@
   <li>651-888-1414</li>
   <li><a href="https://www.linkedin.com/in/tamara-p-cooper/">Linkedin Profile</li>
   <li>Roseville, MN</li> 
-   
 <H2>Professional Profile</H2> 
 <TABLE><TR><TD>&nbsp;</TD> 
 <TD>Having started my first job at just twelve years old, I worked for the next decade and a half whilst simultaneously continuing my education. I worked my way up to assistant manager by age sixteen, was team-teaching university students as an adjunct professor at twenty-five, and have just finished up a Master’s degree in English Literature. My sixteen years in the work force have given me ample experience in leading, managing, and working in a team, as well as in more detail-oriented tasks, such as editing, grading, and data entry.</TD></TR></TABLE> 
 <H2>Relevant Experience</H2> 
+   <H3>May 1990 to November 2012</H3> 
 <TABLE><TR><TD>&nbsp;</TD> 
 <TD>TEST SCORER<BR> 
-Questar via Rightstaff, Bloomington, MN / 2018<UL> 
+Questar via Rightstaff, Bloomington, MN<UL> 
 <LI>Contract work scoring standardized tests.</LI> 
 <LI>Efficiently scored student essays, becoming one of the fastest scorers on the team.</LI></UL></TD></TR></TABLE> 
 <TABLE><TR><TD>&nbsp;</TD> 
