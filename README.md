@@ -10,7 +10,7 @@
 <ul>
   <li>tamarapcooper@gmail.com</li>
   <li>651-888-1414</li>
-  <li><a href="https://www.linkedin.com/in/tamara-p-cooper/">Linkedin Profile</li>
+   <li><a href="https://www.linkedin.com/in/tamara-p-cooper/">Linkedin Profile</a></li>
   <li>Roseville, MN</li> 
 <H2>Professional Profile</H2> 
 <TABLE><TR><TD>&nbsp;</TD> 
