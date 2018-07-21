@@ -10,8 +10,17 @@
 <ul>
   <li>tamarapcooper@gmail.com</li>
   <li>651-888-1414</li>
-  <li><a href="https://www.linkedin.com/in/tamara-p-cooper/">Linkedin Profile</li>
+   <li><a href="https://www.linkedin.com/in/tamara-p-cooper/">Linkedin Profile</a></li>
   <li>Roseville, MN</li> 
+     <H2>Education</H2> 
+<TABLE><TR><TD>&nbsp;</TD> 
+<TD>Masters of Arts in English Literature — March 2018 
+<BR>Swansea University<BR> 
+Swansea, UK</TD></TR></TABLE> 
+   <TABLE><TR><TD>&nbsp;</TD> 
+<TD>Bachelor of Arts in English Literature — December 2014 
+<BR>Brigham Young University-Idaho<BR> 
+Rexburg, ID</TD></TR></TABLE>
    </div>
      <div class="Resume">
 <H2>Professional Profile</H2> 
@@ -43,15 +52,7 @@ English Department BYU-Idaho, Rexburg, ID / 2014 – 2015<UL>
 College of Business and Communications BYU-Idaho, Rexburg, ID / 2014 - 2014<UL>
  <LI>Helped organize hundreds of students’ schedules and carefully searched for mistakes. </LI> 
 <LI>Sharpened my attention to detail, since students’ academic careers were dependent on my work. Guided students in their academics in order for them to have the optimal classes and experiences to achieve their career goals.</LI></UL></TD></TR></TABLE> 
-  <H2>Education</H2> 
-<TABLE><TR><TD>&nbsp;</TD> 
-<TD>Masters of Arts in English Literature — March 2018 
-<BR>Swansea University<BR> 
-Swansea, UK</TD></TR></TABLE> 
-   <TABLE><TR><TD>&nbsp;</TD> 
-<TD>Bachelor of Arts in English Literature — December 2014 
-<BR>Brigham Young University-Idaho<BR> 
-Rexburg, ID</TD></TR></TABLE> 
+ 
   </div>
 </BODY> 
 </div>
