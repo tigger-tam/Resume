@@ -15,7 +15,11 @@ h2 {
 	font-size: 28px; 
 }
 
-
+.about {
+  max-width: 25%;
+  min-width: 140px;
+  flex: 1;
+}
 
 
 
