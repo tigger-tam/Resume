@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <HTML> 
 <HEAD> 
+<link rel="stylesheet" type="text/css" href="https://github.com/tigger-tam/Resume/tree/external-style-sheet"/>
 <title>TAMARA P COOPER</title> 
 </HEAD>
 <BODY BGCOLOR=”#FFFFFF”> 
