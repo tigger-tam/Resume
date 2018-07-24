@@ -1,4 +1,4 @@
-body {
+html, body {
 	font-family: Georgia, serif;
 	height: 100%;
 	margin: 0;
