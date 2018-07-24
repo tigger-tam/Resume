@@ -4,7 +4,6 @@
 <link rel="stylesheet" type="text/css" href="https://github.com/tigger-tam/Resume/tree/external-style-sheet"/>
 <title>TAMARA P COOPER</title> 
 </HEAD>
-<BODY BGCOLOR=”#FFFFFF”> 
 <H1>TAMARA P COOPER</H1> 
    <div class="container">
   <div class="about">
