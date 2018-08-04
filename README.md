@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <HTML> 
 <HEAD> 
-<link rel="stylesheet" type="text/css" href="https://github.com/tigger-tam/Resume/tree/external-style-sheet"/>
+<link rel="stylesheet" type=/css" href=""/>
 <title>TAMARA P COOPER</title> 
 </HEAD>
 <H1>TAMARA P COOPER</H1> 
