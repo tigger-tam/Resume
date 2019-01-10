@@ -28,6 +28,11 @@ Rexburg, ID</TD></TR></TABLE>
 <TD>Having started my first job at just twelve years old, I worked for the next decade and a half whilst simultaneously continuing my education. I worked my way up to assistant manager by age sixteen, was team-teaching university students as an adjunct professor at twenty-five, and have just finished up a Master’s degree in English Literature. My sixteen years in the work force have given me ample experience in leading, managing, and working in a team, as well as in more detail-oriented tasks, such as editing, grading, and data entry.</TD></TR></TABLE> 
 <H2>Relevant Experience</H2> 
 <TABLE><TR><TD>&nbsp;</TD> 
+<TD>Human Resources Generalist<BR> 
+Target, Minneapolis, MN / 2018<UL> 
+<LI>Worked on hiring, payroll, morale, amongst many other tasks.</LI> 
+<LI>Wrote and maintained schedules for hundreds of employees.</LI></UL></TD></TR></TABLE> 
+<TABLE><TR><TD>&nbsp;</TD>                         
 <TD>TEST SCORER<BR> 
 Questar via Rightstaff, Bloomington, MN / 2018<UL> 
 <LI>Contract work scoring standardized tests.</LI> 
